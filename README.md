@@ -2,8 +2,8 @@
 
 ## Identitas Mahasiswa
 
-- Nama: Nadir Abika
-- NIM: 240401010132
+- Nama: Fikriansah
+- NIM: 240401010323
 - Kelas: IF403
 - Mata Kuliah: Data Science
 
